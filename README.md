@@ -50,6 +50,14 @@ Github- For Documnetation
 
 
 
+
+
+
+
+https://github.com/user-attachments/assets/e4fdcb2f-a7d2-4b3c-a0b3-117b421f1e1a
+
+
+
 ## ✨ Key Insights and Findings
 ### **Key Performance Indicators**
 
@@ -60,5 +68,14 @@ Github- For Documnetation
   + **Number of Items Sold**: Reaches 8,523, reflecting total product sales.
 
   + **Average Rating**: Maintains a value of 4, highlighting customer satisfaction.
+
+
+   
+
+
+
+
+
+https://github.com/user-attachments/assets/6193c945-0d85-48ac-8127-1af89065e0a6
 
 
