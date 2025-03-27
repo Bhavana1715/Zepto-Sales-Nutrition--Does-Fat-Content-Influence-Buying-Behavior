@@ -48,3 +48,17 @@
 
 Github- For Documnetation
 
+
+
+## ✨ Key Insights and Findings
+### **Key Performance Indicators**
+
+  + **Total Sales**: Remains steady at $1M, signifying overall revenue performance.
+
+  + **Average Sales**: Currently at $141, indicating the typical transaction value.
+
+  + **Number of Items Sold**: Reaches 8,523, reflecting total product sales.
+
+  + **Average Rating**: Maintains a value of 4, highlighting customer satisfaction.
+
+
