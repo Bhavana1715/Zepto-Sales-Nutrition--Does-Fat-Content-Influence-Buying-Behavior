@@ -8,7 +8,6 @@
 
 + As part of its growth strategy, Zepto aims to optimize product offerings by analyzing consumer preferences based on various product attributes, including fat content in food products.
 
-+ To drive better sales and improve customer experience, the company seeks data-driven insights into how fat content influences purchasing behavior.
 
 + The goal is to provide actionable recommendations that enhance product selection, pricing strategies, and marketing efforts for different fat-content categories, ultimately boosting overall sales and customer retention.
 
@@ -59,7 +58,7 @@ https://github.com/user-attachments/assets/e4fdcb2f-a7d2-4b3c-a0b3-117b421f1e1a
 
 
 ## ✨ Key Insights and Findings
-### **Key Performance Indicators**
+###   Key Performance Indicators 
 
   + **Total Sales**: Remains steady at $1M, signifying overall revenue performance.
 
@@ -68,14 +67,73 @@ https://github.com/user-attachments/assets/e4fdcb2f-a7d2-4b3c-a0b3-117b421f1e1a
   + **Number of Items Sold**: Reaches 8,523, reflecting total product sales.
 
   + **Average Rating**: Maintains a value of 4, highlighting customer satisfaction.
-
-
    
+### ➼ Revenue Distribution: Low-Fat vs. High-Fat Products
+  + Low-fat products contribute significantly to total sales, generating $776K, while high-fat products account for $425K.
+    
+  + Consumers show a higher preference for low-fat products.Hence,the demand for low-fat products is nearly 1.8 times that of high-fat products.
+
+  * Health-conscious choices may be driving the greater sales of low-fat products.
 
 
 
 
 
-https://github.com/user-attachments/assets/6193c945-0d85-48ac-8127-1af89065e0a6
+    
+![Screenshot (1081)](https://github.com/user-attachments/assets/dabb1ea4-7a00-424d-9de0-e5f27d86c054)
+###  ➼  **Fat Content vs. Sales by Location Tier**
+
++ Across all location types—Tier 1, Tier 2, and Tier 3—low-fat products consistently achieve higher sales.
+
++ Among the three tiers, Tier 3 records the highest sales for low-fat products. 
+
++ Consumer preference for low-fat products remains strong, regardless of geographical market segmentation.
+
+  
 
 
+   ![Screenshot (1082)](https://github.com/user-attachments/assets/41273f95-11c8-4b59-a547-9804e89a014a)
+
+### ➼ **Top 3 Selling Products**
+
+The top three selling product categories on Zepto are:
+
++ Fruits & Vegetables
+
++ Snack Foods
+
++ Household Items
+
+### ➼ **Average Sales**
+
+ + The average sales for all products, regardless of fat content, is $141, with low-fat products at $141 and regular fat products at 
+  $142.
+
++ Despite low-fat products contributing 77.6% of total sales, their average sales remain almost the same as regular fat products.
+
++ This is due to <u> **no significant price difference** </u> between low-fat and regular fat products, balancing out the per-unit sales value.
+  
+
+![Screenshot (1080)](https://github.com/user-attachments/assets/2a348f5d-04aa-4fff-82a5-cdef9f45cdc0)
+
+### ➼ Item Type vs. Sales: Low-Fat vs. Regular Fat
+
++ Low-fat products consistently dominate sales across various item types.
+
++ Consumer preference for low-fat options is particularly strong in snack foods (75%) and soft drinks (98.8%).
+
++ In the starch foods category, 60.3% of sales come from low-fat products, indicating a moderate preference
+  
+  
+
+
+
+
+
+![photo-collage png](https://github.com/user-attachments/assets/bda8a7ae-d380-4d66-ab33-bde9cdfc1958)
+###  ➼ Outlet Size & Location vs. Sales by Fat Category
++ A consistent pattern of higher sales for low-fat products is observed across outlets based on size and location.
+
++ However, in large-sized outlets, total sales remain nearly the same, irrespective of fat content.
+
++ In Tier 2 high-sized outlets, regular fat products have higher sales compared to low-fat products.
