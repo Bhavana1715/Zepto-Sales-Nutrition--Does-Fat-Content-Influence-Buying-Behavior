@@ -170,3 +170,36 @@ The top three selling product categories on Zepto are:
 
 
 ![Screenshot (1103)](https://github.com/user-attachments/assets/5fb44d60-3760-4526-9acb-525ef37deb77)
+
+# 💠 Recommendations
+  
+
+✅ **Leverage the High Demand for Low-Fat Products**  
+   - Consumers overwhelmingly prefer **low-fat products (77.6% of sales)**, especially in **snacks (75%) and soft drinks (98.8%)**.  
+   - **Action:** Expand the **low-fat product range**, introduce **bundled offers**, and highlight them in marketing campaigns to capture health-conscious 
+      buyers.  
+
+✅  **Optimize Product Placement for Low-Visibility, High-Selling Items**  
+   - Essential goods like **fruits, vegetables, dairy, and household items** sell well despite low visibility.  
+   - **Action:** Improve visibility through targeted promotions, in-store signage, and featured listings in online platforms to further boost sales.  
+
+✅  **Expand Small-Sized Outlets in Tier 2 and Medium-Sized Outlets in Tier 3**  
+   - Data shows **small outlets perform best in Tier 2**, while **medium outlets dominate in Tier 3**.  
+   - **Action:** Open more **small-sized outlets in Tier 2** and **medium-sized outlets in Tier 3** to match consumer shopping behavior.  
+
+✅  **Adjust Inventory Strategy for High and Low Visibility Items**  
+   - **High visibility does not guarantee high sales** (e.g., breakfast items).   
+   - **Action:** Reduce overstocking of **high-visibility, low-sales items** and **increase stock for high-demand, low-visibility products** to maximize revenue.  
+
+✅  **Tailor Marketing and Promotions by Location & Outlet Size**  
+   - **Regular-fat products** sell better than low-fat ones in **Tier 2 large-sized outlets**, an exception to the overall trend.  
+   - **Action:** Implement **targeted promotions** in large Tier 2 outlets for regular-fat products while keeping low-fat promotions strong elsewhere.
+ 
+
+✅  **Increase the Price of Low-Fat Products Slightly**  
+   - The **average sales per unit for low-fat and regular-fat products are nearly identical**, meaning consumers are willing to pay a similar price for 
+     both.  
+   - **Action:** A **small price increase** on low-fat products can improve profitability without significantly affecting demand.  
+
+
+
