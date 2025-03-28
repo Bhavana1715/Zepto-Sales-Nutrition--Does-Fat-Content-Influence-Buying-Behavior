@@ -104,6 +104,9 @@ The top three selling product categories on Zepto are:
 
 + Household Items
 
+  ![Screenshot (1109)](https://github.com/user-attachments/assets/c5914982-f6a5-404a-82a5-0ffc4427654e)
+
+
 ### ➼ **Average Sales**
 
  + The average sales for all products, regardless of fat content, is $141, with low-fat products at $141 and regular fat products at 
@@ -152,13 +155,13 @@ The top three selling product categories on Zepto are:
 
 
 
-
+![Screenshot (1099)](https://github.com/user-attachments/assets/6d474c7c-d9a3-4096-8373-3497cc0f47f0)
 
 
 ![Screenshot (1100)](https://github.com/user-attachments/assets/d058d2f4-2595-4a19-817c-7035a5109503)
 
 
-![Screenshot (1099)](https://github.com/user-attachments/assets/6d474c7c-d9a3-4096-8373-3497cc0f47f0)
+
 
  
 ### ➼ **Visibility vs. Sales Insights**
