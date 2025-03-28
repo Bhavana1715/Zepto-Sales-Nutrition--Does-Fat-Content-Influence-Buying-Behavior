@@ -134,6 +134,39 @@ The top three selling product categories on Zepto are:
 ###  ➼ Outlet Size & Location vs. Sales by Fat Category
 + A consistent pattern of higher sales for low-fat products is observed across outlets based on size and location.
 
-+ However, in large-sized outlets, total sales remain nearly the same, irrespective of fat content.
++ In large-sized outlets, total sales remain nearly the same, irrespective of fat content.
 
-+ In Tier 2 high-sized outlets, regular fat products have higher sales compared to low-fat products.
++ To our surprise, Tier 2 high-sized outlets, **regular fat products** have higher sales compared to low-fat products.
+
+  
+![Screenshot (1093)](https://github.com/user-attachments/assets/96b4e2e2-80bc-4f86-bf6f-70d2432307e7)
+
++ Most of sales are through tier 3 and tier 2 location type
+
++ Tier 2 Outlets: Small-sized outlets generate the highest sales, suggesting a strong customer preference for convenience or accessibility in these areas.
+
++ Tier 3 Outlets: Medium-sized outlets lead in sales, likely due to a balance of product variety and affordability.
+
++ Size vs. Location Impact: Outlet performance varies by tier and size, indicating that consumer behavior is influenced by regional shopping patterns.
+
+
+
+
+
+
+
+![Screenshot (1100)](https://github.com/user-attachments/assets/d058d2f4-2595-4a19-817c-7035a5109503)
+
+
+![Screenshot (1099)](https://github.com/user-attachments/assets/6d474c7c-d9a3-4096-8373-3497cc0f47f0)
+
+ 
+### ➼ **Visibility vs. Sales Insights**
++ **Low Visibility ≠ Low Sales**: Most items have low visibility but still drive high sales (e.g., Fruits & Vegetables: ₹178,124.08). Essential goods sell well despite low visibility.
+
++ **High Visibility ≠ High Sales**: Breakfast has high visibility  but has low sales (₹15,596.70), proving visibility doesn't always boost sales.
+
++ **Demand-Driven Sales**: Household (₹135,975.58) and Dairy (₹93,376.93) perform well despite low visibility, indicating necessity matters more than exposure.
+
+
+![Screenshot (1103)](https://github.com/user-attachments/assets/5fb44d60-3760-4526-9acb-525ef37deb77)
